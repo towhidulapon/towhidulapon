@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  👋 Hey, I'm <span style="color:#00bfff;">Towhidul Apon</span>
+  👋 Hey, I'm <span style="color:#00bfff;">Md Towhidul Islam Apon</span>
 </h1>
 
 <p align="center">
