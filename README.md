@@ -75,57 +75,61 @@ class TowhidulIslamApon {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">💰 OvoCash</h3>
-      <p align="center">A digital wallet / fintech platform built with Laravel Blade — clean transactions, seamless UX.</p>
+      <h3 align="center">📱 eSIM</h3>
+      <p align="center">A modern eSIM management platform — activate, manage, and provision digital SIM profiles with ease using Laravel.</p>
       <p align="center">
-        <a href="https://github.com/towhidulapon/ovocash">
+        <a href="https://github.com/towhidulapon/esim">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
         </a>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
         <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">📦 Courier System</h3>
-      <p align="center">A full-featured courier management app — track shipments, manage deliveries, built with JavaScript.</p>
+      <h3 align="center">🎬 OvoShorts</h3>
+      <p align="center">A short-form video streaming platform — browse, upload, and enjoy bite-sized content with a slick modern UI.</p>
       <p align="center">
-        <a href="https://github.com/towhidulapon/courier">
+        <a href="https://github.com/towhidulapon/ovoshorts">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
         </a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🗳️ Polling System</h3>
-      <p align="center">A dynamic voting & polling platform with real-time results and a polished SCSS-powered UI.</p>
+      <h3 align="center">💳 CardPay</h3>
+      <p align="center">A secure card-based payment gateway — process transactions, manage cards, and handle billing seamlessly.</p>
       <p align="center">
-        <a href="https://github.com/towhidulapon/polling_system">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎰 Prize Bond Checker</h3>
-      <p align="center">A smart Laravel tool that lets users check Bangladesh prize bond results quickly and easily.</p>
-      <p align="center">
-        <a href="https://github.com/towhidulapon/prizebond">
+        <a href="https://github.com/towhidulapon/cardpay">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
         </a>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛡️ Insurance</h3>
+      <p align="center">A comprehensive insurance management system — handle policies, claims, and renewals with a clean dashboard.</p>
+      <p align="center">
+        <a href="https://github.com/towhidulapon/insurance">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
       </p>
     </td>
   </tr>
