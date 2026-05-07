@@ -4,9 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Md%20Towhidul%20Islam%20Apon&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Laravel%20Artisan%20%7C%20Problem%20Solver&descSize=16&descAlignY=58&descColor=a8d8ea" />
 
 <!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Building+elegant+web+solutions;Laravel+%7C+PHP+%7C+JavaScript;Turning+ideas+into+reality+🚀;Clean+code+%2B+Creative+thinking" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=560&lines=Building+elegant+web+solutions+%F0%9F%9A%80;Laravel+%7C+PHP+%7C+JavaScript+%7C+Bootstrap;Turning+ideas+into+reality;Clean+code+%2B+Creative+thinking+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
@@ -55,6 +53,7 @@ class TowhidulIslamApon {
 
 ### 🎨 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
