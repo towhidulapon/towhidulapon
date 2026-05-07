@@ -142,19 +142,21 @@ class TowhidulIslamApon {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=towhidulapon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-stats-alpha.vercel.app/api?username=towhidulapon&cc=0d1117&tc=38B2AC&ic=fff&bc=0d1117" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=towhidulapon&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<br/><br/>
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=towhidulapon&theme=tokyonight&hide_border=true&background=0d1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=towhidulapon&theme=tokyonight&hide_border=true&background=0d1117" />
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=towhidulapon&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
